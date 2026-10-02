@@ -1,0 +1,11 @@
+[{
+  "modid": "pridehud",
+  "name": "Pride HUD",
+  "description": "Customize your Minecraft HUD: pixel-themed widgets (coords, FPS, clock, facing, biome) and toggles to hide vanilla HUD elements. Inspired by Spiffy HUD.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "authorList": ["crunkazcanbe"],
+  "credits": "Inspired by Keksuccino's Spiffy HUD",
+  "logoFile": ""
+}]
